@@ -1,3 +1,3 @@
-module github.com/notifysoftware/golisten
+module github.com/alii/golisten
 
 go 1.16
